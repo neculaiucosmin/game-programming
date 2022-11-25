@@ -1,0 +1,3 @@
+C:/Users/Cosmin/Desktop/C++/learn-SDL/cmake-build-debug/CMakeFiles/learn_SDL.dir
+C:/Users/Cosmin/Desktop/C++/learn-SDL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cosmin/Desktop/C++/learn-SDL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
