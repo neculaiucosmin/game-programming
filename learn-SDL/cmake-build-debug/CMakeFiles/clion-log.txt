@@ -1,4 +1,4 @@
-C:\Users\Cosmin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.7172.20\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Cosmin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.7172.20/bin/ninja/win/ninja.exe -G Ninja C:\Users\Cosmin\Desktop\C++\learn-SDL
+C:\Users\cosmi\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5921.27\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\cosmi\Desktop\Github\game-programming\learn-SDL -B C:\Users\cosmi\Desktop\Github\game-programming\learn-SDL\cmake-build-debug
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/Cosmin/Desktop/C++/learn-SDL/cmake-build-debug
+-- Build files have been written to: C:/Users/cosmi/Desktop/Github/game-programming/learn-SDL/cmake-build-debug

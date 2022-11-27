@@ -30,25 +30,25 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 13,
+				"line" : 17,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 10,
+				"line" : 14,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 15,
+				"line" : 19,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 9,
+				"line" : 13,
 				"parent" : 0
 			}
 		]
@@ -69,7 +69,7 @@
 			[
 				{
 					"backtrace" : 4,
-					"path" : "C:/Users/Cosmin/Desktop/C++/lib/SDL2-2.26.0/include"
+					"path" : "C:/Users/cosmi/Desktop/C++/lib/SDL2-2.26.0/include"
 				}
 			],
 			"language" : "CXX",
@@ -103,7 +103,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-LC:\\Users\\Cosmin\\Desktop\\C++\\lib\\SDL2-2.26.0\\lib\\x64",
+				"fragment" : "-LC:\\Users\\cosmi\\Desktop\\C++\\lib\\SDL2-2.26.0\\lib\\x64",
 				"role" : "libraryPath"
 			},
 			{

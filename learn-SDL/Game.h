@@ -33,8 +33,13 @@ private:
 
 	Vector2 mBallPos;
     Vector2 mPaddlerPos;
+    //paddlers will be place in left and right of the screen
+    Vector2 mSecondPaddlerPos;
+    Vector2 mBallVel;
 
     int mPaddleDir;
+
+    int mSecondPaddlerDir;
 
 
 	//game should run

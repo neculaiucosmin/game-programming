@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "learn_SDL::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-learn_SDL-Debug-519d3765307226eb0280.json",
+					"jsonFile" : "target-learn_SDL-Debug-abe5c3b1975bf8b2e74a.json",
 					"name" : "learn_SDL",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Cosmin/Desktop/C++/learn-SDL/cmake-build-debug",
-		"source" : "C:/Users/Cosmin/Desktop/C++/learn-SDL"
+		"build" : "C:/Users/cosmi/Desktop/Github/game-programming/learn-SDL/cmake-build-debug",
+		"source" : "C:/Users/cosmi/Desktop/Github/game-programming/learn-SDL"
 	},
 	"version" : 
 	{
