@@ -1,0 +1,3 @@
+C:/Users/cosmi/Desktop/Github/game-programming/game-dev-cap-2/cmake-build-debug/CMakeFiles/game_dev_cap_2.dir
+C:/Users/cosmi/Desktop/Github/game-programming/game-dev-cap-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cosmi/Desktop/Github/game-programming/game-dev-cap-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
